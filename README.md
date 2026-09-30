@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Name Recognition](./practice/sql/name-recognition) | SQL | Medium | 2026-09-30 |
 | [The Middle of the Missing](./practice/sql/the-middle-of-the-missing) | SQL | Medium | 2026-05-31 |
 
 <!-- datadriven:index:end -->
