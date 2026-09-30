@@ -1,9 +1,23 @@
-SELECT DISTINCT svc_name,
-       CASE WHEN svc_name LIKE '%api%' THEN 'api_service'
-            WHEN svc_name LIKE 'cache%' THEN 'cache_service'
-            WHEN svc_name LIKE '%redis%' THEN 'cache_service'
-            WHEN svc_name LIKE '%db%' THEN 'database'
-            WHEN svc_name LIKE '%postgres%' THEN 'database'
-            ELSE 'other'
-       END AS category
-FROM svc_health
+from pyspark.sql import functions as F
+
+result = (
+  svc_health
+    .withColumn(
+      'category',
+      F.when(F.col('svc_name').like('%api%'), 'api_service')
+      .when(
+        (F.col('svc_name').like('%cache%')) |
+        (F.col('svc_name').like('%redis%')), 'cache_service')
+      .when(
+        (F.col('svc_name').like('%db%')) |
+        (F.col('svc_name').like('%postgres%')), 'database')
+      .otherwise('other')
+    )
+    .select(
+      'svc_name',
+      'category'
+    )
+    .distinct()
+)
+
+result.show()

@@ -12,7 +12,7 @@
 | Accepted | on the 4th submission |
 | Time | 2 min |
 | Hints | none |
-| Query complexity | O(n), optimal |
+| Query complexity | O(n log n), optimal |
 | Concepts | Conditional Logic, Deduplication, Pattern Matching, Query Basics |
 
 The accepted solution is in [`solution.sql`](./solution.sql).
