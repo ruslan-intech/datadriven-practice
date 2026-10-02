@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Greeting Formatter Class](./practice/python/greeting-formatter-class) | Python | Easy | 2026-10-02 |
 | [Verify Commit ID Uniqueness](./practice/sql/verify-commit-id-uniqueness) | SQL | Easy | 2026-10-02 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-10-02 |
 | [The Exception Handler](./practice/python/the-exception-handler) | Python | Medium | 2026-10-01 |
