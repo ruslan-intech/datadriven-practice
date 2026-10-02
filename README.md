@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-10-02 |
 | [The Exception Handler](./practice/python/the-exception-handler) | Python | Medium | 2026-10-01 |
 | [Mobile vs Desktop Session Duration](./practice/sql/mobile-vs-desktop-session-duration) | SQL | Medium | 2026-10-01 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-01 |
