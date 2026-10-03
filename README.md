@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Tree Measurer](./practice/python/the-tree-measurer) | Python | Easy | 2026-10-03 |
 | [Non-Bot Acknowledged Alerts](./practice/sql/non-bot-acknowledged-alerts) | SQL | Easy | 2026-10-03 |
 | [Verbose by Design](./practice/sql/verbose-by-design) | SQL | Hard | 2026-10-03 |
 | [Greeting Formatter Class](./practice/python/greeting-formatter-class) | Python | Easy | 2026-10-02 |
