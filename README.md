@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Merge Counter](./practice/sql/the-merge-counter) | SQL | Easy | 2026-10-04 |
 | [The Tree Measurer](./practice/python/the-tree-measurer) | Python | Easy | 2026-10-03 |
 | [Non-Bot Acknowledged Alerts](./practice/sql/non-bot-acknowledged-alerts) | SQL | Easy | 2026-10-03 |
 | [Verbose by Design](./practice/sql/verbose-by-design) | SQL | Hard | 2026-10-03 |
