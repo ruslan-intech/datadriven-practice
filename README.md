@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Above the Title](./practice/python/above-the-title) | Python | Medium | 2026-10-04 |
 | [The Ones Nobody Calls](./practice/sql/the-ones-nobody-calls) | SQL | Medium | 2026-10-04 |
 | [The Merge Counter](./practice/sql/the-merge-counter) | SQL | Easy | 2026-10-04 |
 | [The Tree Measurer](./practice/python/the-tree-measurer) | Python | Easy | 2026-10-03 |
