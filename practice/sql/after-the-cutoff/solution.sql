@@ -3,7 +3,5 @@ SELECT svc_name as svc_name,
   MAX(dur_secs) AS max_duration 
 FROM deploy_logs
 WHERE env_name = 'production'
-  AND status = 'success'
   AND CAST(strftime('%m', deploy_at) AS INTEGER) >= 4
 GROUP BY svc_name
--- ORDER BY

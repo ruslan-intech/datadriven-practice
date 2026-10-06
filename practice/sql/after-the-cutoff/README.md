@@ -12,7 +12,7 @@
 | Accepted | on the 6th submission |
 | Time | 26 min |
 | Hints | none |
-| Query complexity | O(n log n), optimal |
+| Query complexity | O(n), the optimum is O(n log n) |
 | Concepts | Basic Types, Type Casting, Counting, Date Formatting, Date vs Timestamp, Date Parts, Grouping, Min & Max, Query Basics, Timestamp Types, Filtering |
 
 The accepted solution is in [`solution.sql`](./solution.sql).
