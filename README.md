@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Throttle Ceiling](./practice/python/the-throttle-ceiling) | Python | Medium | 2026-10-06 |
 | [The Long Tail](./practice/sql/the-long-tail) | SQL | Medium | 2026-10-06 |
 | [After the Cutoff](./practice/sql/after-the-cutoff) | SQL | Easy | 2026-10-06 |
 | [Sirens and Smoke](./practice/sql/sirens-and-smoke) | SQL | Easy | 2026-10-05 |
