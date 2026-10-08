@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [First Time Learners Per Day](./practice/sql/first-time-learners-per-day) | SQL | Medium | 2026-10-08 |
 | [The Even Checkpoint](./practice/python/the-even-checkpoint) | Python | Easy | 2026-10-08 |
 | [Until Relieved](./practice/sql/until-relieved) | SQL | Medium | 2026-10-08 |
 | [The Throttle Ceiling](./practice/python/the-throttle-ceiling) | Python | Medium | 2026-10-06 |
