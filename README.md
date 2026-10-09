@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Services at Median Uptime](./practice/sql/services-at-median-uptime) | SQL | Medium | 2026-10-09 |
 | [Campaign Bookend Engagement](./practice/sql/campaign-bookend-engagement) | SQL | Hard | 2026-10-09 |
 | [First Time Learners Per Day](./practice/sql/first-time-learners-per-day) | SQL | Medium | 2026-10-08 |
 | [The Even Checkpoint](./practice/python/the-even-checkpoint) | Python | Easy | 2026-10-08 |
