@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Accuracy by Framework](./practice/sql/average-accuracy-by-framework) | SQL | Medium | 2026-10-10 |
 | [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-10-10 |
 | [Footprints in the Feed](./practice/python/footprints-in-the-feed) | Python | Medium | 2026-10-09 |
 | [Services at Median Uptime](./practice/sql/services-at-median-uptime) | SQL | Medium | 2026-10-09 |
