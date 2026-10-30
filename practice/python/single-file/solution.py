@@ -1,10 +1,13 @@
 def flatten(feed):
   result = []
-  def dfs(node):
-    if isinstance(node, list):
-      for child in node:
-        dfs(child)        
+  stack = [feed]
+  
+  while stack:
+    f = stack.pop()
+    if isinstance(f, list):
+        for child in f[-1::-1]:
+          stack.append(child)
     else:
-      result.append(node)
-  dfs(feed)
+      result.append(f)
+  
   return result
