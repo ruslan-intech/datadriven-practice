@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Below the Line](./practice/sql/below-the-line) | SQL | Medium | 2026-11-02 |
 | [Tiers of Want](./practice/sql/tiers-of-want) | SQL | Hard | 2026-10-30 |
 | [Single File](./practice/python/single-file) | Python | Easy | 2026-10-30 |
 | [Left On](./practice/sql/left-on) | SQL | Medium | 2026-10-29 |
