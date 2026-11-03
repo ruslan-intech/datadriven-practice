@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-11-03 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Easy | 2026-11-03 |
 | [Returning Buyers](./practice/sql/returning-buyers) | SQL | Medium | 2026-11-02 |
 | [Below the Line](./practice/sql/below-the-line) | SQL | Medium | 2026-11-02 |
