@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Relentless Searchers](./practice/sql/the-relentless-searchers) | SQL | Medium | 2026-11-04 |
 | [The Tag Order](./practice/sql/the-tag-order) | SQL | Hard | 2026-11-04 |
 | [The Long Way Around](./practice/python/the-long-way-around) | Python | Easy | 2026-11-04 |
 | [The Lazy Unpacker](./practice/python/the-lazy-unpacker) | Python | Medium | 2026-11-03 |
