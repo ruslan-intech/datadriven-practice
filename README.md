@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Long Way Around](./practice/python/the-long-way-around) | Python | Easy | 2026-11-04 |
 | [The Lazy Unpacker](./practice/python/the-lazy-unpacker) | Python | Medium | 2026-11-03 |
 | [Normalization Tradeoffs in Practice](./practice/sql/normalization-tradeoffs-in-practice) | SQL | Hard | 2026-11-03 |
 | [Three Peaks](./practice/sql/three-peaks) | SQL | Hard | 2026-11-03 |
