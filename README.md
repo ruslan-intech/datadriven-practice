@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-11-05 |
 | [The Page Turner](./practice/python/the-page-turner) | Python | Medium | 2026-11-05 |
 | [The Relentless Searchers](./practice/spark/the-relentless-searchers) | Spark | Medium | 2026-11-04 |
 | [The Relentless Searchers](./practice/sql/the-relentless-searchers) | SQL | Medium | 2026-11-04 |
