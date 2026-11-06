@@ -12,7 +12,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 | [The Page Turner](./practice/python/the-page-turner) | Python | Medium | 2026-11-05 |
 | [The Relentless Searchers](./practice/spark/the-relentless-searchers) | Spark | Medium | 2026-11-04 |
 | [The Relentless Searchers](./practice/sql/the-relentless-searchers) | SQL | Medium | 2026-11-04 |
-| [The Tag Order](./practice/sql/the-tag-order) | SQL | Medium | 2026-11-04 |
+| [The Tag Order](./practice/sql/the-tag-order) | SQL | Hard | 2026-11-04 |
 | [The Long Way Around](./practice/python/the-long-way-around) | Python | Easy | 2026-11-04 |
 | [The Lazy Unpacker](./practice/python/the-lazy-unpacker) | Python | Medium | 2026-11-03 |
 | [Normalization Tradeoffs in Practice](./practice/sql/normalization-tradeoffs-in-practice) | SQL | Hard | 2026-11-03 |
