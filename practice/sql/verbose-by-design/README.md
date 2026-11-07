@@ -1,6 +1,6 @@
 # Verbose by Design
 
-*Some paths say in six segments what others say in two.*
+*Some paths say in 6 segments what others say in two.*
 
 [SQL · Hard · on DataDriven](https://datadriven.io/problems/verbose_by_design)
 
