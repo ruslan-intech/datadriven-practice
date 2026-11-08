@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Open Wounds](./practice/spark/open-wounds) | Spark | Hard | 2026-11-08 |
 | [Open Wounds](./practice/sql/open-wounds) | SQL | Hard | 2026-11-08 |
 | [High-Value Electronics](./practice/spark/high-value-electronics) | Spark | Easy | 2026-11-08 |
 | [High-Value Electronics](./practice/sql/high-value-electronics) | SQL | Easy | 2026-11-08 |
