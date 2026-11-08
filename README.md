@@ -9,7 +9,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
 | [High-Value Electronics](./practice/sql/high-value-electronics) | SQL | Easy | 2026-11-08 |
-| [The Hourly Bucket](./practice/python/the-hourly-bucket) | Python | Medium | 2026-11-07 |
+| [The Hourly Bucket](./practice/python/the-hourly-bucket) | Python | Easy | 2026-11-07 |
 | [Peak Spending Month](./practice/spark/peak-spending-month) | Spark | Easy | 2026-11-07 |
 | [Peak Spending Month](./practice/sql/peak-spending-month) | SQL | Easy | 2026-11-07 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-11-05 |
