@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Second Purchase](./practice/spark/second-purchase) | Spark | Hard | 2026-11-09 |
 | [Second Purchase](./practice/sql/second-purchase) | SQL | Hard | 2026-11-09 |
 | [Open Wounds](./practice/spark/open-wounds) | Spark | Hard | 2026-11-08 |
 | [Open Wounds](./practice/sql/open-wounds) | SQL | Hard | 2026-11-08 |
