@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Point of Entry](./practice/spark/point-of-entry) | Spark | Hard | 2026-11-10 |
 | [Point of Entry](./practice/sql/point-of-entry) | SQL | Hard | 2026-11-10 |
 | [The Log Pulse](./practice/python/the-log-pulse) | Python | Easy | 2026-11-09 |
 | [The Word Families](./practice/python/the-word-families) | Python | Medium | 2026-11-09 |
