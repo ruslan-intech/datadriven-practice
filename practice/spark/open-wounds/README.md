@@ -2,7 +2,7 @@
 
 *Every service has one alarm that was never silenced. Find the one that has been screaming the longest.*
 
-[Spark · Hard · on DataDriven](https://datadriven.io/problems/open_wounds)
+[Spark · Medium · on DataDriven](https://datadriven.io/problems/open_wounds)
 
 ## How it went
 
