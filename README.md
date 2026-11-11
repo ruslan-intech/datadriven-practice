@@ -10,7 +10,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 |---|---|---|---|
 | [Monthly Running Total](./practice/spark/monthly-running-total) | Spark | Medium | 2026-11-10 |
 | [The Grid Pivot](./practice/python/the-grid-pivot) | Python | Easy | 2026-11-10 |
-| [Monthly Running Total](./practice/sql/monthly-running-total) | SQL | Medium | 2026-11-10 |
+| [Monthly Running Total](./practice/sql/monthly-running-total) | SQL | Easy | 2026-11-10 |
 | [Point of Entry](./practice/spark/point-of-entry) | Spark | Hard | 2026-11-10 |
 | [Point of Entry](./practice/sql/point-of-entry) | SQL | Hard | 2026-11-10 |
 | [The Log Pulse](./practice/python/the-log-pulse) | Python | Easy | 2026-11-09 |
