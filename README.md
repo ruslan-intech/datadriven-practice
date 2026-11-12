@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Radio Silence](./practice/spark/radio-silence) | Spark | Hard | 2026-11-12 |
 | [Radio Silence](./practice/sql/radio-silence) | SQL | Hard | 2026-11-12 |
 | [The Shortest Route](./practice/python/the-shortest-route) | Python | Medium | 2026-11-12 |
 | [Against the House](./practice/python/against-the-house) | Python | Medium | 2026-11-11 |
