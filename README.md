@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Floor Price](./practice/spark/the-floor-price) | Spark | Medium | 2026-11-13 |
 | [The Floor Price](./practice/sql/the-floor-price) | SQL | Medium | 2026-11-13 |
 | [Radio Silence](./practice/spark/radio-silence) | Spark | Hard | 2026-11-12 |
 | [Radio Silence](./practice/sql/radio-silence) | SQL | Hard | 2026-11-12 |
