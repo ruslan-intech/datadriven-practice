@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Original Keeper](./practice/python/the-original-keeper) | Python | Easy | 2026-11-14 |
 | [Follow the Money](./practice/spark/follow-the-money) | Spark | Easy | 2026-11-14 |
 | [Follow the Money](./practice/sql/follow-the-money) | SQL | Easy | 2026-11-14 |
 | [Unbroken](./practice/python/unbroken) | Python | Easy | 2026-11-13 |
