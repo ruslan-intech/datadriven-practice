@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Follow the Money](./practice/spark/follow-the-money) | Spark | Easy | 2026-11-14 |
 | [Follow the Money](./practice/sql/follow-the-money) | SQL | Easy | 2026-11-14 |
 | [Unbroken](./practice/python/unbroken) | Python | Easy | 2026-11-13 |
 | [The Floor Price](./practice/spark/the-floor-price) | Spark | Medium | 2026-11-13 |
