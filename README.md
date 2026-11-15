@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Median Failure Rate by Table](./practice/sql/median-failure-rate-by-table) | SQL | Hard | 2026-11-15 |
 | [The Original Keeper](./practice/python/the-original-keeper) | Python | Easy | 2026-11-14 |
 | [Follow the Money](./practice/spark/follow-the-money) | Spark | Easy | 2026-11-14 |
 | [Follow the Money](./practice/sql/follow-the-money) | SQL | Easy | 2026-11-14 |
