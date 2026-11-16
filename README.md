@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Extremes](./practice/spark/the-extremes) | Spark | Hard | 2026-11-16 |
 | [The Extremes](./practice/sql/the-extremes) | SQL | Hard | 2026-11-16 |
 | [The Zigzag Encoder](./practice/python/the-zigzag-encoder) | Python | Medium | 2026-11-15 |
 | [Median Failure Rate by Table](./practice/spark/median-failure-rate-by-table) | Spark | Hard | 2026-11-15 |
