@@ -22,6 +22,6 @@ df_cnt = (
 df_out = (
   df_cnt
   .filter((F.col("rn_asc") <= 3) | (F.col("rn_desc") <= 3))
-  ,select("svc_name", "total_amount")
   .orderBy("total_amount")
+  ,select("svc_name", "total_amount")
   )
