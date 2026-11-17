@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where Quality Breaks](./practice/sql/where-quality-breaks) | SQL | Easy | 2026-11-17 |
 | [The Type Sorter](./practice/python/the-type-sorter) | Python | Easy | 2026-11-16 |
 | [The Extremes](./practice/spark/the-extremes) | Spark | Hard | 2026-11-16 |
 | [The Extremes](./practice/sql/the-extremes) | SQL | Hard | 2026-11-16 |
