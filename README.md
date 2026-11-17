@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Merge Champion](./practice/python/the-merge-champion) | Python | Medium | 2026-11-17 |
 | [Where Quality Breaks](./practice/sql/where-quality-breaks) | SQL | Easy | 2026-11-17 |
 | [The Type Sorter](./practice/python/the-type-sorter) | Python | Easy | 2026-11-16 |
 | [The Extremes](./practice/spark/the-extremes) | Spark | Hard | 2026-11-16 |
