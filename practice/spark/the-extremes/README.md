@@ -2,7 +2,7 @@
 
 *Only the biggest and the smallest reach the executive review.*
 
-[Spark · Easy · on DataDriven](https://datadriven.io/problems/the_extremes)
+[Spark · Hard · on DataDriven](https://datadriven.io/problems/the_extremes)
 
 ## How it went
 
