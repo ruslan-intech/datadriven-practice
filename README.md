@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Power Users](./practice/spark/power-users) | Spark | Medium | 2026-11-18 |
 | [What the Card Remembers](./practice/python/what-the-card-remembers) | Python | Medium | 2026-11-18 |
 | [Power Users](./practice/sql/power-users) | SQL | Medium | 2026-11-18 |
 | [Where Quality Breaks](./practice/spark/where-quality-breaks) | Spark | Easy | 2026-11-17 |
