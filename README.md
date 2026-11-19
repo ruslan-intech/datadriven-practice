@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Customer Full Name Concat](./practice/sql/customer-full-name-concat) | SQL | Easy | 2026-11-19 |
 | [Days with More Edited Than Unedited Messages](./practice/spark/days-with-more-edited-than-unedited-messages) | Spark | Medium | 2026-11-19 |
 | [Batch Records](./practice/python/batch-records) | Python | Medium | 2026-11-19 |
 | [Days with More Edited Than Unedited Messages](./practice/sql/days-with-more-edited-than-unedited-messages) | SQL | Medium | 2026-11-19 |
