@@ -2,7 +2,7 @@
 
 *Engagement separates tourists from regulars.*
 
-[Spark · Medium · on DataDriven](https://datadriven.io/problems/power_users)
+[Spark · Easy · on DataDriven](https://datadriven.io/problems/power_users)
 
 ## How it went
 
