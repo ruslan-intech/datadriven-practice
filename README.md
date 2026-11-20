@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Device Mix](./practice/spark/device-mix) | Spark | Easy | 2026-11-20 |
 | [Device Mix](./practice/sql/device-mix) | SQL | Easy | 2026-11-20 |
 | [Customer Full Name Concat](./practice/spark/customer-full-name-concat) | Spark | Easy | 2026-11-19 |
 | [Customer Full Name Concat](./practice/sql/customer-full-name-concat) | SQL | Easy | 2026-11-19 |
