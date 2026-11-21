@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Hands Apart](./practice/python/hands-apart) | Python | Easy | 2026-11-21 |
 | [Q by Q](./practice/sql/q-by-q) | SQL | Easy | 2026-11-21 |
 | [Two Sides of the Ledger](./practice/spark/two-sides-of-the-ledger) | Spark | Hard | 2026-11-20 |
 | [Two Sides of the Ledger](./practice/sql/two-sides-of-the-ledger) | SQL | Hard | 2026-11-20 |
