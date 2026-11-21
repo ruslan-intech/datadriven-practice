@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Q by Q](./practice/sql/q-by-q) | SQL | Easy | 2026-11-21 |
 | [Two Sides of the Ledger](./practice/spark/two-sides-of-the-ledger) | Spark | Hard | 2026-11-20 |
 | [Two Sides of the Ledger](./practice/sql/two-sides-of-the-ledger) | SQL | Hard | 2026-11-20 |
 | [Carry the One](./practice/python/carry-the-one) | Python | Medium | 2026-11-20 |
