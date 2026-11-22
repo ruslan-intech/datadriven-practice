@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top-Heavy](./practice/python/top-heavy) | Python | Medium | 2026-11-22 |
 | [Top Performing Models](./practice/spark/top-performing-models) | Spark | Easy | 2026-11-22 |
 | [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-11-22 |
 | [Hands Apart](./practice/python/hands-apart) | Python | Easy | 2026-11-21 |
