@@ -15,7 +15,6 @@ df_cte = (
   .agg(F.count("*").alias("txn_count"))
 )
 
-
 w = Window.orderBy(F.desc("txn_count"))
 
 df_out = (
