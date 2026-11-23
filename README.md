@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-11-23 |
 | [Top Product Categories](./practice/spark/top-product-categories) | Spark | Medium | 2026-11-23 |
 | [Top Product Categories](./practice/sql/top-product-categories) | SQL | Medium | 2026-11-23 |
 | [Q by Q](./practice/spark/q-by-q) | Spark | Easy | 2026-11-22 |
