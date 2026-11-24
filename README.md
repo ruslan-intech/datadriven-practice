@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-11-24 |
 | [Closing Bell](./practice/python/closing-bell) | Python | Medium | 2026-11-24 |
 | [Biggest Deployment Decline](./practice/sql/biggest-deployment-decline) | SQL | Medium | 2026-11-24 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-11-23 |
