@@ -13,7 +13,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 | [Biggest Deployment Decline](./practice/sql/biggest-deployment-decline) | SQL | Medium | 2026-11-24 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-11-23 |
 | [Top Product Categories](./practice/spark/top-product-categories) | Spark | Easy | 2026-11-23 |
-| [Top Product Categories](./practice/sql/top-product-categories) | SQL | Easy | 2026-11-23 |
+| [Top Product Categories](./practice/sql/top-product-categories) | SQL | Medium | 2026-11-23 |
 | [Q by Q](./practice/spark/q-by-q) | Spark | Easy | 2026-11-22 |
 | [Top-Heavy](./practice/python/top-heavy) | Python | Medium | 2026-11-22 |
 | [Top Performing Models](./practice/spark/top-performing-models) | Spark | Easy | 2026-11-22 |
