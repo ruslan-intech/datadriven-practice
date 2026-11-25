@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [7-Check Rolling Average](./practice/sql/7-check-rolling-average) | SQL | Medium | 2026-11-25 |
 | [The Lion's Share](./practice/spark/the-lion-s-share) | Spark | Medium | 2026-11-25 |
 | [The Lion's Share](./practice/sql/the-lion-s-share) | SQL | Medium | 2026-11-25 |
 | [The Chunked Reader](./practice/python/the-chunked-reader) | Python | Medium | 2026-11-25 |
