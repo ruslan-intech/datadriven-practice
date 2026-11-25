@@ -2,7 +2,7 @@
 
 *Top three categories by page views.*
 
-[Spark · Easy · on DataDriven](https://datadriven.io/problems/top_product_categories)
+[Spark · Medium · on DataDriven](https://datadriven.io/problems/top_product_categories)
 
 ## How it went
 
