@@ -2,7 +2,7 @@
 
 *Half the tables fail more than this.*
 
-[Spark · Easy · on DataDriven](https://datadriven.io/problems/median_failure_rate_by_table)
+[Spark · Hard · on DataDriven](https://datadriven.io/problems/median_failure_rate_by_table)
 
 ## How it went
 
