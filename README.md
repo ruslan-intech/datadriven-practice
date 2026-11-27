@@ -1,6 +1,6 @@
-# full_deer_1720's data engineering practice
+# mr_rus's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/full_deer_1720), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/mr_rus), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
