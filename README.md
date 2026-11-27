@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mr_rus), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Trapped Pool](./practice/python/the-trapped-pool) | Python | Hard | 2026-11-27 |
 | [Bargains and Budget-Busters](./practice/sql/bargains-and-budget-busters) | SQL | Hard | 2026-11-26 |
 | [Dictionary Key Intersection](./practice/python/dictionary-key-intersection) | Python | Medium | 2026-11-26 |
 | [Where the Data Breaks](./practice/sql/where-the-data-breaks) | SQL | Medium | 2026-11-26 |
