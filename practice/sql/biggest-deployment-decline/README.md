@@ -1,6 +1,6 @@
 # Biggest Deployment Decline
 
-*One team's deploy count cratered. Which one?*
+*One service suddenly started shipping faster than the rest. Which one?*
 
 [SQL · Medium · on DataDriven](https://datadriven.io/problems/biggest_deployment_decline)
 
