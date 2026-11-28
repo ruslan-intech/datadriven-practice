@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mr_rus), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Hidden Depths](./practice/python/hidden-depths) | Python | Medium | 2026-11-28 |
 | [Error Severity Buckets](./practice/sql/error-severity-buckets) | SQL | Easy | 2026-11-28 |
 | [Only Here](./practice/spark/only-here) | Spark | Easy | 2026-11-27 |
 | [Only Here](./practice/sql/only-here) | SQL | Easy | 2026-11-27 |
