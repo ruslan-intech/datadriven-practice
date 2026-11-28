@@ -113,7 +113,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mr_rus), committed here as
 | [After the Cutoff](./practice/sql/after-the-cutoff) | SQL | Easy | 2026-10-06 |
 | [Sirens and Smoke](./practice/sql/sirens-and-smoke) | SQL | Easy | 2026-10-05 |
 | [The Tail Finder](./practice/python/the-tail-finder) | Python | Medium | 2026-10-05 |
-| [Longest Running Pipeline](./practice/sql/longest-running-pipeline) | SQL | Easy | 2026-10-05 |
+| [Longest Running Pipeline](./practice/sql/longest-running-pipeline) | SQL | Medium | 2026-10-05 |
 | [Above the Title](./practice/python/above-the-title) | Python | Medium | 2026-10-04 |
 | [The Ones Nobody Calls](./practice/sql/the-ones-nobody-calls) | SQL | Medium | 2026-10-04 |
 | [The Merge Counter](./practice/sql/the-merge-counter) | SQL | Easy | 2026-10-04 |
