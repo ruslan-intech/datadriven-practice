@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mr_rus), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Error Severity Buckets](./practice/sql/error-severity-buckets) | SQL | Easy | 2026-11-28 |
 | [Only Here](./practice/spark/only-here) | Spark | Easy | 2026-11-27 |
 | [Only Here](./practice/sql/only-here) | SQL | Easy | 2026-11-27 |
 | [Cloud Cost Trend Analysis](./practice/spark/cloud-cost-trend-analysis) | Spark | Medium | 2026-11-27 |
