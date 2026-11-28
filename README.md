@@ -9,7 +9,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mr_rus), committed here as
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
 | [Only Here](./practice/spark/only-here) | Spark | Hard | 2026-11-27 |
-| [Only Here](./practice/sql/only-here) | SQL | Hard | 2026-11-27 |
+| [Only Here](./practice/sql/only-here) | SQL | Easy | 2026-11-27 |
 | [Cloud Cost Trend Analysis](./practice/spark/cloud-cost-trend-analysis) | Spark | Medium | 2026-11-27 |
 | [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-11-27 |
 | [The Trapped Pool](./practice/python/the-trapped-pool) | Python | Hard | 2026-11-27 |

@@ -2,7 +2,7 @@
 
 *Exclusive to one source. Missing from the other.*
 
-[SQL · Hard · on DataDriven](https://datadriven.io/problems/only_here)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/only_here)
 
 ## How it went
 
